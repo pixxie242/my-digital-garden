@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/balance-of-body/"}
+{"dg-publish":true,"permalink":"/commonplace/balance-of-body/","tags":["gardenEntry"]}
 ---
 
 
