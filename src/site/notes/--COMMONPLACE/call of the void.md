@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/call-of-the-void/","created":"2025-02-14T14:21:39.748+08:00","updated":"2025-03-25T18:52:39.913+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/call-of-the-void/","created":"2025-02-14T14:21:39.748+08:00","updated":"2025-03-25T19:25:55.549+08:00"}
 ---
 
 
-[[--AREAS/SCIENCE\|SCIENCE]]
+[[--AREAS/SCIENCE\|--AREAS/SCIENCE]]
 
 ## what is it?
 - ever felt like jumping off from a high building while you are there, or jump in front of a truck? kind of like an intrusive thought. 

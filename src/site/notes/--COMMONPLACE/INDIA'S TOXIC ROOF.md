@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/india-s-toxic-roof/","created":"2025-03-24T01:11:54.505+08:00","updated":"2025-03-25T19:01:58.787+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/india-s-toxic-roof/","created":"2025-03-24T01:11:54.505+08:00","updated":"2025-03-25T19:25:55.508+08:00"}
 ---
 
 
@@ -11,4 +11,4 @@
 - Millions of people in India and all around the world are sleeping under asbestos roofs, inhaling asbestos, not knowing they are slowly dying.
 - Most countries have banned asbestos completely, but still many roofs can be seen in india made with asbestos
 
-[[--AREAS/SCIENCE\|SCIENCE]]
+[[--AREAS/SCIENCE\|--AREAS/SCIENCE]]

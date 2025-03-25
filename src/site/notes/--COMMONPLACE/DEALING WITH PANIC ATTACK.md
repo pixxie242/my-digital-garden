@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/dealing-with-panic-attack/","created":"2025-02-17T21:11:51.063+08:00","updated":"2025-03-25T19:01:33.486+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/dealing-with-panic-attack/","created":"2025-02-17T21:11:51.063+08:00","updated":"2025-03-25T19:25:55.497+08:00"}
 ---
 
 
@@ -12,5 +12,5 @@
 	- 1 taste u can taste ( even from memory )
 
 
-[[--AREAS/SCIENCE\|SCIENCE]]
+[[--AREAS/SCIENCE\|--AREAS/SCIENCE]]
 [[--AREAS/PSYCHOLOGY\|PSYCHOLOGY]]

@@ -67,6 +67,6 @@ While death is often a serious and somber subject, there have been some truly bi
 
 • In **Australia**, a farmer reportedly died in 2013 after being **kicked by an ostrich**. The bird’s powerful kick caused significant **internal injuries** and proved to be fatal.
 
-[[--AREAS/IDEAS/YOUTUBE VIDEO\|YOUTUBE VIDEO]]
+[[2 RESOURCES/IDEAS/YOUTUBE VIDEO\|YOUTUBE VIDEO]]
 [[--AREAS/HISTORY\|HISTORY]]
 [[--AREAS/TIL\|TIL]]

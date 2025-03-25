@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-index/","tags":["gardenEntry"],"created":"2025-02-13T21:50:53.494+08:00","updated":"2025-03-25T19:23:11.315+08:00"}
+{"dg-publish":true,"permalink":"/000-index/","tags":["gardenEntry"],"created":"2025-02-13T21:50:53.494+08:00","updated":"2025-03-25T19:39:36.621+08:00"}
 ---
 
 - [[--AREAS/CREATIVITY\|CREATIVITY]]
@@ -13,62 +13,34 @@
 
 { .block-language-dataview}
 
-| File                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------- |
-| [[--AREAS/IDEAS/YOUTUBE VIDEO\|YOUTUBE VIDEO]]                                                                          |
-| [[--AREAS/IDEAS/CALL OF VOID\|CALL OF VOID]]                                                                            |
-| [[--AREAS/CREATIVITY\|CREATIVITY]]                                                                                      |
-| [[--AREAS/HISTORY\|HISTORY]]                                                                                            |
-| [[--AREAS/PRODUCTIVITY\|PRODUCTIVITY]]                                                                                  |
-| [[--AREAS/SCIENCE\|SCIENCE]]                                                                                            |
-| [[--AREAS/TIL\|TIL]]                                                                                                    |
-| [[--AREAS/PSYCHOLOGY\|PSYCHOLOGY]]                                                                                      |
-| [[--AREAS/QUOTES\|QUOTES]]                                                                                              |
-| [[--AREAS/MEDICINE/HOW TO TAKE PATIENT HISTORY\|HOW TO TAKE PATIENT HISTORY]]                                           |
-| [[--AREAS/MEDICINE/Dix Hallpike Maneuver to Diagnose BPPV Dizziness\|Dix Hallpike Maneuver to Diagnose BPPV Dizziness]] |
-| [[--COMMONPLACE/Buchenwald vaccine scam\|Buchenwald vaccine scam]]                                                      |
-| [[--COMMONPLACE/CORNELL NOTES\|CORNELL NOTES]]                                                                          |
-| [[--COMMONPLACE/CRESCENT MOON\|CRESCENT MOON]]                                                                          |
-| [[--COMMONPLACE/HEART TRANSPLANT\|HEART TRANSPLANT]]                                                                    |
-| [[--COMMONPLACE/DEALING WITH PANIC ATTACK\|DEALING WITH PANIC ATTACK]]                                                  |
-| [[--COMMONPLACE/BALANCE OF BODY\|BALANCE OF BODY]]                                                                      |
-| [[--COMMONPLACE/INDIA'S TOXIC ROOF\|INDIA'S TOXIC ROOF]]                                                                |
-| [[--COMMONPLACE/HOW TO FIX ATTENTION SPAN\|HOW TO FIX ATTENTION SPAN]]                                                  |
-| [[--COMMONPLACE/MEASURE DISTANCE WITH THUMB\|MEASURE DISTANCE WITH THUMB]]                                              |
-| [[--COMMONPLACE/MENOPAUSE\|MENOPAUSE]]                                                                                  |
-| [[--COMMONPLACE/Love transcends through space and time\|Love transcends through space and time]]                        |
-| [[--COMMONPLACE/OBSIDIAN CHEATSHEET\|OBSIDIAN CHEATSHEET]]                                                              |
-| [[--COMMONPLACE/IF YOU DON'T KNOW AN ANSWER\|IF YOU DON'T KNOW AN ANSWER]]                                              |
-| [[--COMMONPLACE/OPIATES DURING PREGNANCY\|OPIATES DURING PREGNANCY]]                                                    |
-| [[--COMMONPLACE/Time travel in mirror\|Time travel in mirror]]                                                          |
-| [[--COMMONPLACE/INGINUITY - THE MARS HELICOPTER\|INGINUITY - THE MARS HELICOPTER]]                                      |
-| [[--COMMONPLACE/for the brain\|for the brain]]                                                                          |
-| [[--COMMONPLACE/PAREIDOLIA\|PAREIDOLIA]]                                                                                |
-| [[--COMMONPLACE/call of the void\|call of the void]]                                                                    |
-| [[--COMMONPLACE/WEIRD WAYS PEOPLE DIED\|WEIRD WAYS PEOPLE DIED]]                                                        |
-| [[--COMMONPLACE/how to effectively use pocket notebooks\|how to effectively use pocket notebooks]]                      |
-| [[--COMMONPLACE/BIOMIMICRY\|BIOMIMICRY]]                                                                                |
-| [[--COMMONPLACE/how to make hydrogen balloon\|how to make hydrogen balloon]]                                            |
-| [[--COMMONPLACE/How to use NotebookLM\|How to use NotebookLM]]                                                          |
-| [[--COMMONPLACE/99 ways to save money\|99 ways to save money]]                                                          |
-| [[2025/2025-02-12\|2025-02-12]]                                                                                         |
-| [[2025/2025-02-13\|2025-02-13]]                                                                                         |
-| [[2025/2025-02-14\|2025-02-14]]                                                                                         |
-| [[2025/2025-02-17\|2025-02-17]]                                                                                         |
-| [[2025/2025-02-16\|2025-02-16]]                                                                                         |
-| [[2025/2025-03-02\|2025-03-02]]                                                                                         |
-| [[2025/2025-02-25\|2025-02-25]]                                                                                         |
-| [[2025/2025-02-15\|2025-02-15]]                                                                                         |
-| [[2025/2025-03-09\|2025-03-09]]                                                                                         |
-| [[2025/2025-02-20\|2025-02-20]]                                                                                         |
-| [[2 RESOURCES/VIDEOS\|VIDEOS]]                                                                                          |
-| [[_FOOD/APPLE-BANANA SMOOTHIE\|APPLE-BANANA SMOOTHIE]]                                                                  |
-| [[_FOOD/BANANA SHAKE\|BANANA SHAKE]]                                                                                    |
-| [[_FOOD/mango sticky rice\|mango sticky rice]]                                                                          |
-| [[_FOOD/GARLIC CHICKEN\|GARLIC CHICKEN]]                                                                                |
-| [[_FOOD/Chicken chukka\|Chicken chukka]]                                                                                |
-| [[_FOOD/RECIPES\|RECIPES]]                                                                                              |
-| [[TRICHOPHAGIA - WHY PEOPLE EAT HAIR\|TRICHOPHAGIA - WHY PEOPLE EAT HAIR]]                                              |
-| [[@000 INDEX\|@000 INDEX]]                                                                                              |
+| Note                                                                                                  | Category                                                                                                                                                                           | Created Date      |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[--COMMONPLACE/BIOMIMICRY\|BIOMIMICRY]]                                                           | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li></ul>                                                                                                                         | March 25, 2025    |
+| [[--COMMONPLACE/CRESCENT MOON\|CRESCENT MOON]]                                                     | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li></ul>                                                                                                                         | March 24, 2025    |
+| [[--COMMONPLACE/INDIA'S TOXIC ROOF\|INDIA'S TOXIC ROOF]]                                           | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li></ul>                                                                                                                         | March 24, 2025    |
+| [[--COMMONPLACE/MENOPAUSE\|MENOPAUSE]]                                                             | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li><li>[[EVOLUTION\\|EVOLUTION]]</li></ul>                                                                                       | March 23, 2025    |
+| [[--COMMONPLACE/OPIATES DURING PREGNANCY\|OPIATES DURING PREGNANCY]]                               | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li></ul>                                                                                                                         | March 23, 2025    |
+| [[--COMMONPLACE/INGINUITY - THE MARS HELICOPTER\|INGINUITY - THE MARS HELICOPTER]]                 | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li></ul>                                                                                                                         | March 21, 2025    |
+| [[--COMMONPLACE/WEIRD WAYS PEOPLE DIED\|WEIRD WAYS PEOPLE DIED]]                                   | <ul><li>[[2 RESOURCES/IDEAS/YOUTUBE VIDEO.md\\|YOUTUBE VIDEO]]</li><li>[[--AREAS/HISTORY.md\\|HISTORY]]</li><li>[[--AREAS/TIL.md\\|TIL]]</li></ul>                                 | March 18, 2025    |
+| [[--COMMONPLACE/TRICHOPHAGIA - WHY PEOPLE EAT HAIR\|TRICHOPHAGIA - WHY PEOPLE EAT HAIR]]           | <ul><li>[[SCIENCE.md\\|SCIENCE]]</li><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li></ul>                                                                                          | March 12, 2025    |
+| [[--COMMONPLACE/Buchenwald vaccine scam\|Buchenwald vaccine scam]]                                 | <ul><li>[[--AREAS/HISTORY.md\\|HISTORY]]</li></ul>                                                                                                                                 | March 09, 2025    |
+| [[--COMMONPLACE/HEART TRANSPLANT\|HEART TRANSPLANT]]                                               | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li><li>[[--AREAS/TIL.md\\|TIL]]</li></ul>                                                                                        | March 09, 2025    |
+| [[--COMMONPLACE/BALANCE OF BODY\|BALANCE OF BODY]]                                                 | <ul><li>[[--AREAS/TIL.md\\|TIL]]</li><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li></ul>                                                                                        | March 04, 2025    |
+| [[--COMMONPLACE/IF YOU DON'T KNOW AN ANSWER\|IF YOU DON'T KNOW AN ANSWER]]                         | <ul><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li><li>[[--AREAS/PRODUCTIVITY.md\\|PRODUCTIVITY]]</li></ul>                                                                        | March 04, 2025    |
+| [[--COMMONPLACE/HOW TO FIX ATTENTION SPAN\|HOW TO FIX ATTENTION SPAN]]                             | <ul><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li></ul>                                                                                                                           | February 25, 2025 |
+| [[--COMMONPLACE/DEALING WITH PANIC ATTACK\|DEALING WITH PANIC ATTACK]]                             | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li></ul>                                                                          | February 17, 2025 |
+| [[--COMMONPLACE/MEASURE DISTANCE WITH THUMB\|MEASURE DISTANCE WITH THUMB]]                         | <ul><li>[[--AREAS/TIL.md\\|TIL]]</li></ul>                                                                                                                                         | February 16, 2025 |
+| [[--COMMONPLACE/Love transcends through space and time\|Love transcends through space and time]]   | <ul><li>[[--AREAS/QUOTES.md\\|QUOTES]]</li></ul>                                                                                                                                   | February 16, 2025 |
+| [[--COMMONPLACE/CORNELL NOTES\|CORNELL NOTES]]                                                     | <ul><li>[[--COMMONPLACE/how to effectively use pocket notebooks.md\\|how to effectively use pocket notebooks]]</li><li>[[--AREAS/PRODUCTIVITY.md\\|PRODUCTIVITY]]</li></ul>        | February 14, 2025 |
+| [[--COMMONPLACE/Time travel in mirror\|Time travel in mirror]]                                     | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li></ul>                                                                                                                         | February 14, 2025 |
+| [[--COMMONPLACE/PAREIDOLIA\|PAREIDOLIA]]                                                           | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li><li>[[EVOLUTION\\|EVOLUTION]]</li><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li></ul>                                        | February 14, 2025 |
+| [[--COMMONPLACE/call of the void\|call of the void]]                                               | <ul><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li></ul>                                                                          | February 14, 2025 |
+| [[--COMMONPLACE/how to make hydrogen balloon\|how to make hydrogen balloon]]                       | <ul><li>[[--AREAS/CREATIVITY.md\\|CREATIVITY]]</li><li>[[--AREAS/SCIENCE.md\\|--AREAS/SCIENCE]]</li></ul>                                                                          | February 14, 2025 |
+| [[--COMMONPLACE/for the brain\|for the brain]]                                                     | <ul><li>[[--COMMONPLACE/how to effectively use pocket notebooks.md\\|how to effectively use pocket notebooks]]</li><li>[[--AREAS/PRODUCTIVITY.md\\|PRODUCTIVITY]]</li></ul>        | February 13, 2025 |
+| [[--COMMONPLACE/how to effectively use pocket notebooks\|how to effectively use pocket notebooks]] | <ul><li>[[--COMMONPLACE/for the brain.md\\|for the brain]]</li><li>[[--AREAS/PRODUCTIVITY.md\\|PRODUCTIVITY]]</li><li>[[--COMMONPLACE/CORNELL NOTES.md\\|CORNELL NOTES]]</li></ul> | February 13, 2025 |
+| [[--COMMONPLACE/99 ways to save money\|99 ways to save money]]                                     | <ul><li>[[--COMMONPLACE/for the brain.md\\|for the brain]]</li><li>[[--AREAS/PRODUCTIVITY.md\\|PRODUCTIVITY]]</li><li>![[z- ASSETS/IMG_3719 1.png\\|IMG_3719 1.png]]</li></ul>     | February 13, 2025 |
+| [[--COMMONPLACE/OBSIDIAN CHEATSHEET\|OBSIDIAN CHEATSHEET]]                                         | <ul><li>[[MY FIRST NOTE\\|MY FIRST NOTE]]</li><li>[[2025/2025-02-12.md\\|2025-02-12]]</li><li>[[--AREAS/PRODUCTIVITY.md\\|PRODUCTIVITY]]</li></ul>                                 | February 12, 2025 |
 
 { .block-language-dataview}
+
+

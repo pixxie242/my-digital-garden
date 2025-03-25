@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/inginuity-the-mars-helicopter/","created":"2025-03-21T22:19:22.464+08:00","updated":"2025-03-25T19:02:34.567+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/inginuity-the-mars-helicopter/","created":"2025-03-21T22:19:22.464+08:00","updated":"2025-03-25T19:25:55.512+08:00"}
 ---
 
 
@@ -56,4 +56,4 @@ It's a story about overcoming the odds, the power of human ingenuity, and the th
 Sources
 [1] watch?v=20vUNgRdB4o https://www.youtube.com/watch?v=20vUNgRdB4o
 
-[[--AREAS/SCIENCE\|SCIENCE]]
+[[--AREAS/SCIENCE\|--AREAS/SCIENCE]]

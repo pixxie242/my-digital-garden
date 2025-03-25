@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/biomimicry/","created":"2025-03-25T16:56:23.379+08:00","updated":"2025-03-25T18:59:22.590+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/biomimicry/","created":"2025-03-25T16:56:23.379+08:00","updated":"2025-03-25T19:25:55.558+08:00"}
 ---
 
 In 1989, Japan’s Shinkansen bullet train faced a noise problem when exiting tunnels. Engineers redesigned the train using biomimicry, drawing inspiration from three birds:
@@ -17,7 +17,7 @@ In 1989, Japan’s Shinkansen bullet train faced a noise problem when exiting tu
 - Velcro Fasteners - Inspired by the tiny hooks on burdock plant seeds
 - Painless Needles - Medical needles designed to mimic mosquito proboscises for less painful injections.
 - Fighter planes from eagle
-[[--AREAS/SCIENCE\|SCIENCE]]
+[[--AREAS/SCIENCE\|--AREAS/SCIENCE]]
 [Title Unavailable \| Site Unreachable](https://youtu.be/iMtXqTmfta0?si=6tZTkSOG_WusjSMr)
 
 [Biomimicry: Hoax or Genius? - YouTube](https://youtu.be/_KowHG5Wbgk?si=r6gnUZRlsQmdxwRM)

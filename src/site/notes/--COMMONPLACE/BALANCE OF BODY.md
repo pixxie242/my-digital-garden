@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/balance-of-body/","created":"2025-03-04T06:02:28.468+08:00","updated":"2025-03-25T18:46:57.091+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/balance-of-body/","created":"2025-03-04T06:02:28.468+08:00","updated":"2025-03-25T19:25:55.470+08:00"}
 ---
 
 
@@ -8,6 +8,6 @@
 
 
 [[--AREAS/TIL\|TIL]]
-[[--AREAS/SCIENCE\|SCIENCE]]
+[[--AREAS/SCIENCE\|--AREAS/SCIENCE]]
 
 
