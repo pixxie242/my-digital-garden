@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/biomimicry/","tags":["gardenEntry"],"created":"2025-03-25T16:56:23.379+08:00","updated":"2025-03-25T18:21:02.462+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/biomimicry/","created":"2025-03-25T16:56:23.379+08:00","updated":"2025-03-25T18:59:22.590+08:00"}
 ---
 
 In 1989, Japan’s Shinkansen bullet train faced a noise problem when exiting tunnels. Engineers redesigned the train using biomimicry, drawing inspiration from three birds:
