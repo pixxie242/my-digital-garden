@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/medicine/how-to-take-patient-history/","created":"2025-02-25T20:56:58.723+08:00","updated":"2025-03-25T19:13:07.020+08:00"}
+{"dg-publish":true,"permalink":"/areas/medicine/how-to-take-patient-history/","created":"2025-02-25T20:56:58.723+08:00","updated":"2025-03-25T20:34:16.321+08:00"}
 ---
 
 
@@ -89,4 +89,7 @@ Okay MR, is there anything you think mightve caused this or anything concerning 
 
 reference
 [How to Take a Patient History (full guide) \| KharmaMedic - YouTube](https://youtu.be/STnLNbRHYhw?si=Mzb9SJiz8iuf3CI_)
-[[medicine\|medicine]]
+[[--AREAS/MEDICINE/MEDICINE\|medicine]]
+
+
+[[--AREAS/MEDICINE/MEDICINE\|MEDICINE]]

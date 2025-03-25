@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/medicine/dix-hallpike-maneuver-to-diagnose-bppv-dizziness/","created":"2025-02-26T13:25:00.165+08:00","updated":"2025-03-25T19:13:00.493+08:00"}
+{"dg-publish":true,"permalink":"/areas/medicine/dix-hallpike-maneuver-to-diagnose-bppv-dizziness/","created":"2025-02-26T13:25:00.165+08:00","updated":"2025-03-25T20:34:09.215+08:00"}
 ---
 
 
@@ -12,3 +12,4 @@
 - repeated on the opposite side.
 
 
+[[--AREAS/MEDICINE/MEDICINE\|MEDICINE]]

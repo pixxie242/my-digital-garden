@@ -9,7 +9,7 @@
 	- benefits for cleaning gut
 - some remnants of these genes still run in some families.
 
-[[SCIENCE\|SCIENCE]]
+[[--AREAS/SCIENCE\|SCIENCE]]
 [[--AREAS/PSYCHOLOGY\|PSYCHOLOGY]]
 
 
