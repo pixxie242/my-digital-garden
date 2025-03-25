@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/call-of-the-void/","created":"2025-02-14T14:21:39.748+08:00","updated":"2025-03-25T18:48:24.220+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/call-of-the-void/","created":"2025-02-14T14:21:39.748+08:00","updated":"2025-03-25T18:52:39.913+08:00"}
 ---
 
 
