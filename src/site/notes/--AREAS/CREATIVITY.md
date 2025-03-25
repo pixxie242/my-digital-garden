@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/areas/creativity/","created":"2025-02-14T02:56:14.038+08:00","updated":"2025-03-25T19:11:03.326+08:00"}
 ---
 
-| File                                                                          | Created                     |
-| ----------------------------------------------------------------------------- | --------------------------- |
-| [[2 RESOURCES/how to make hydrogen balloon\|how to make hydrogen balloon]] | 2:12 PM - February 14, 2025 |
+| File                                                                            | Created                     |
+| ------------------------------------------------------------------------------- | --------------------------- |
+| [[--COMMONPLACE/how to make hydrogen balloon\|how to make hydrogen balloon]] | 2:12 PM - February 14, 2025 |
 
 { .block-language-dataview}
 

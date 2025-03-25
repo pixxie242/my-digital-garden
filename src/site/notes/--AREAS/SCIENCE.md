@@ -20,7 +20,7 @@
 | [[--COMMONPLACE/DEALING WITH PANIC ATTACK\|DEALING WITH PANIC ATTACK]]             | 9:11 PM - February 17, 2025 |
 | [[--COMMONPLACE/PAREIDOLIA\|PAREIDOLIA]]                                           | 2:49 PM - February 14, 2025 |
 | [[--COMMONPLACE/call of the void\|call of the void]]                               | 2:21 PM - February 14, 2025 |
-| [[2 RESOURCES/how to make hydrogen balloon\|how to make hydrogen balloon]]         | 2:12 PM - February 14, 2025 |
+| [[--COMMONPLACE/how to make hydrogen balloon\|how to make hydrogen balloon]]       | 2:12 PM - February 14, 2025 |
 | [[--COMMONPLACE/Time travel in mirror\|Time travel in mirror]]                     | 2:34 AM - February 14, 2025 |
 
 { .block-language-dataview}
