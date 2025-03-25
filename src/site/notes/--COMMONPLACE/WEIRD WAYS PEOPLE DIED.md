@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/weird-ways-people-died/","created":"2025-03-18T22:04:29.921+08:00","updated":"2025-03-25T19:08:17.620+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/weird-ways-people-died/","created":"2025-03-18T22:04:29.921+08:00"}
 ---
 
 

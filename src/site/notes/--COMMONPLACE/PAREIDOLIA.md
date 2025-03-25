@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/pareidolia/","created":"2025-02-14T14:49:36.989+08:00","updated":"2025-03-25T19:25:55.538+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/pareidolia/","created":"2025-02-14T14:49:36.989+08:00"}
 ---
 
 

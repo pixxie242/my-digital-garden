@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/heart-transplant/","created":"2025-03-09T18:09:58.098+08:00","updated":"2025-03-25T19:25:55.500+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/heart-transplant/","created":"2025-03-09T18:09:58.098+08:00"}
 ---
 
 

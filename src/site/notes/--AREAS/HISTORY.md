@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/history/","created":"2025-03-09T22:56:17.124+08:00","updated":"2025-03-25T19:11:23.267+08:00"}
+{"dg-publish":true,"permalink":"/areas/history/","created":"2025-03-09T22:56:17.124+08:00"}
 ---
 
 

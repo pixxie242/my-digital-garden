@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/creativity/","created":"2025-02-14T02:56:14.038+08:00","updated":"2025-03-25T20:50:55.090+08:00"}
+{"dg-publish":true,"permalink":"/areas/creativity/","created":"2025-02-14T02:56:14.038+08:00"}
 ---
 
 

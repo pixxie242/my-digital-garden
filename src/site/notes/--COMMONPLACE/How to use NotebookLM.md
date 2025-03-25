@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/how-to-use-notebook-lm/","created":"2025-02-13T22:13:48.465+08:00","updated":"2025-03-25T19:16:43.073+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/how-to-use-notebook-lm/","created":"2025-02-13T22:13:48.465+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/medicine/how-to-take-patient-history/","created":"2025-02-25T20:56:58.723+08:00","updated":"2025-03-25T20:34:16.321+08:00"}
+{"dg-publish":true,"permalink":"/areas/medicine/how-to-take-patient-history/","created":"2025-02-25T20:56:58.723+08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/how-to-effectively-use-pocket-notebooks/","created":"2025-02-13T01:09:02.886+08:00","updated":"2025-03-25T19:00:51.529+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/how-to-effectively-use-pocket-notebooks/","created":"2025-02-13T01:09:02.886+08:00"}
 ---
 
 

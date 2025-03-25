@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/buchenwald-vaccine-scam/","created":"2025-03-09T22:55:05.826+08:00","updated":"2025-03-25T19:05:34.563+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/buchenwald-vaccine-scam/","created":"2025-03-09T22:55:05.826+08:00"}
 ---
 
 

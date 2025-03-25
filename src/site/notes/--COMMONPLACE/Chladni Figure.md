@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/chladni-figure/","created":"2025-03-25T22:24:46.007+08:00","updated":"2025-03-25T22:28:52.877+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/chladni-figure/","created":"2025-03-25T22:24:46.007+08:00"}
 ---
 
 ![Pasted image 20250325222520.png](/img/user/z-%20ASSETS/Pasted%20image%2020250325222520.png)

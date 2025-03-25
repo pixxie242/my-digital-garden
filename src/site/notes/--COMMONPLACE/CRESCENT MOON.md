@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/crescent-moon/","created":"2025-03-24T02:47:06.000+08:00","updated":"2025-03-25T19:25:55.495+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/crescent-moon/","created":"2025-03-24T02:47:06.000+08:00"}
 ---
 
 

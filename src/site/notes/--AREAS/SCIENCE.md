@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/areas/science/","created":"2025-02-14T02:46:03.212+08:00","updated":"2025-03-25T19:39:55.331+08:00"}
+{"dg-publish":true,"permalink":"/areas/science/","created":"2025-02-14T02:46:03.212+08:00"}
 ---
 
 [[@000 INDEX\|@000 INDEX]]
 | File                                                                                        | Created                     |
 | ------------------------------------------------------------------------------------------- | --------------------------- |
+| [[--COMMONPLACE/SICKLE CELL DISEASE\|SICKLE CELL DISEASE]]                               | 12:15 AM - March 26, 2025   |
 | [[--COMMONPLACE/Chladni Figure\|Chladni Figure]]                                         | 10:24 PM - March 25, 2025   |
 | [[--COMMONPLACE/BIOMIMICRY\|BIOMIMICRY]]                                                 | 4:56 PM - March 25, 2025    |
 | [[--COMMONPLACE/CRESCENT MOON\|CRESCENT MOON]]                                           | 2:47 AM - March 24, 2025    |

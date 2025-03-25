@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/areas/psychology/","created":"2025-02-17T21:15:09.887+08:00","updated":"2025-03-25T20:50:59.319+08:00"}
+{"dg-publish":true,"permalink":"/areas/psychology/","created":"2025-02-17T21:15:09.887+08:00"}
 ---
 
 

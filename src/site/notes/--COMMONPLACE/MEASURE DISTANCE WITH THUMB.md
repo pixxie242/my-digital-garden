@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/measure-distance-with-thumb/","created":"2025-02-16T01:56:44.376+08:00","updated":"2025-03-25T19:04:44.171+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/measure-distance-with-thumb/","created":"2025-02-16T01:56:44.376+08:00"}
 ---
 
 

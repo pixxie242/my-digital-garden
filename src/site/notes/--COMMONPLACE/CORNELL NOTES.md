@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/cornell-notes/","created":"2025-02-14T04:28:57.658+08:00","updated":"2025-03-25T19:00:41.792+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/cornell-notes/","created":"2025-02-14T04:28:57.658+08:00"}
 ---
 
 

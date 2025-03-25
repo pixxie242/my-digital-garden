@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/trichophagia-why-people-eat-hair/","created":"2025-03-12T22:03:33.071+08:00","updated":"2025-03-25T19:26:06.412+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/trichophagia-why-people-eat-hair/","created":"2025-03-12T22:03:33.071+08:00"}
 ---
 
 
