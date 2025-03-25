@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/cornell-notes/","created":"2025-02-14T04:28:57.658+08:00","updated":"2025-03-25T18:48:41.530+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/cornell-notes/","created":"2025-02-14T04:28:57.658+08:00","updated":"2025-03-25T19:00:41.792+08:00"}
 ---
 
-
-[[--AREAS/PRODUCTIVITY\|PRODUCTIVITY]]
 
 - these are smart notes 
 - good for active recall
@@ -14,3 +12,4 @@
 
 
 [[--COMMONPLACE/how to effectively use pocket notebooks\|how to effectively use pocket notebooks]]
+[[--AREAS/PRODUCTIVITY\|PRODUCTIVITY]]
