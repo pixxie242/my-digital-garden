@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/commonplace/weird-ways-people-died/","created":"2025-03-18T22:04:29.921+08:00","updated":"2025-03-25T19:07:58.784+08:00"}
+{"dg-publish":true,"permalink":"/commonplace/weird-ways-people-died/","created":"2025-03-18T22:04:29.921+08:00","updated":"2025-03-25T19:08:17.620+08:00"}
 ---
 
 
@@ -69,3 +69,4 @@ While death is often a serious and somber subject, there have been some truly bi
 
 [[--AREAS/IDEAS/YOUTUBE VIDEO\|YOUTUBE VIDEO]]
 [[--AREAS/HISTORY\|HISTORY]]
+[[--AREAS/TIL\|TIL]]
