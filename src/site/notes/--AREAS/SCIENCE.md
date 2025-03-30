@@ -5,6 +5,7 @@
 [[@000 INDEX\|@000 INDEX]]
 | File                                                                                        | Created                     |
 | ------------------------------------------------------------------------------------------- | --------------------------- |
+| [[--COMMONPLACE/SCHIZOPHRENIA VIDEO\|SCHIZOPHRENIA VIDEO]]                               | 8:45 PM - March 29, 2025    |
 | [[--COMMONPLACE/SICKLE CELL DISEASE\|SICKLE CELL DISEASE]]                               | 12:15 AM - March 26, 2025   |
 | [[--COMMONPLACE/Chladni Figure\|Chladni Figure]]                                         | 10:24 PM - March 25, 2025   |
 | [[--COMMONPLACE/BIOMIMICRY\|BIOMIMICRY]]                                                 | 4:56 PM - March 25, 2025    |

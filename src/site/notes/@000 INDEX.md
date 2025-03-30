@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/000-index/","tags":["gardenEntry"],"created":"2025-02-13T21:50:53.494+08:00"}
 ---
 
+
 - [[--AREAS/CREATIVITY\|CREATIVITY]]
 - [[--AREAS/HISTORY\|HISTORY]]
 - [[--AREAS/PRODUCTIVITY\|PRODUCTIVITY]]
@@ -15,6 +16,7 @@
 
 | Note                                                                                                  | Category                                                                                                                                                                           | Created Date      |
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| [[--COMMONPLACE/SCHIZOPHRENIA VIDEO\|SCHIZOPHRENIA VIDEO]]                                         | <ul><li>[[--AREAS/SCIENCE.md\\|SCIENCE]]</li><li>[[2 RESOURCES/VIDEOS/VIDEOS.md\\|VIDEOS]]</li></ul>                                                                               | March 29, 2025    |
 | [[--COMMONPLACE/SICKLE CELL DISEASE\|SICKLE CELL DISEASE]]                                         | <ul><li>[[--AREAS/SCIENCE.md\\|SCIENCE]]</li><li>\-</li></ul>                                                                                                                      | March 26, 2025    |
 | [[--COMMONPLACE/BIOMIMICRY\|BIOMIMICRY]]                                                           | <ul><li>[[--AREAS/SCIENCE.md\\|SCIENCE]]</li></ul>                                                                                                                                 | March 25, 2025    |
 | [[--COMMONPLACE/Chladni Figure\|Chladni Figure]]                                                   | <ul><li>[[--AREAS/SCIENCE.md\\|SCIENCE]]</li><li>\-</li></ul>                                                                                                                      | March 25, 2025    |
@@ -31,8 +33,8 @@
 | [[--COMMONPLACE/IF YOU DON'T KNOW AN ANSWER\|IF YOU DON'T KNOW AN ANSWER]]                         | <ul><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li><li>[[--AREAS/PRODUCTIVITY.md\\|PRODUCTIVITY]]</li></ul>                                                                        | March 04, 2025    |
 | [[--COMMONPLACE/HOW TO FIX ATTENTION SPAN\|HOW TO FIX ATTENTION SPAN]]                             | <ul><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li></ul>                                                                                                                           | February 25, 2025 |
 | [[--COMMONPLACE/DEALING WITH PANIC ATTACK\|DEALING WITH PANIC ATTACK]]                             | <ul><li>[[--AREAS/SCIENCE.md\\|SCIENCE]]</li><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li></ul>                                                                                  | February 17, 2025 |
-| [[--COMMONPLACE/Love transcends through space and time\|Love transcends through space and time]]   | <ul><li>[[--AREAS/QUOTES.md\\|QUOTES]]</li></ul>                                                                                                                                   | February 16, 2025 |
 | [[--COMMONPLACE/MEASURE DISTANCE WITH THUMB\|MEASURE DISTANCE WITH THUMB]]                         | <ul><li>[[--AREAS/TIL.md\\|TIL]]</li></ul>                                                                                                                                         | February 16, 2025 |
+| [[--COMMONPLACE/Love transcends through space and time\|Love transcends through space and time]]   | <ul><li>[[--AREAS/QUOTES.md\\|QUOTES]]</li></ul>                                                                                                                                   | February 16, 2025 |
 | [[--COMMONPLACE/CORNELL NOTES\|CORNELL NOTES]]                                                     | <ul><li>[[--COMMONPLACE/how to effectively use pocket notebooks.md\\|how to effectively use pocket notebooks]]</li><li>[[--AREAS/PRODUCTIVITY.md\\|PRODUCTIVITY]]</li></ul>        | February 14, 2025 |
 | [[--COMMONPLACE/PAREIDOLIA\|PAREIDOLIA]]                                                           | <ul><li>[[--AREAS/SCIENCE.md\\|SCIENCE]]</li><li>\-</li><li>[[--AREAS/PSYCHOLOGY.md\\|PSYCHOLOGY]]</li></ul>                                                                       | February 14, 2025 |
 | [[--COMMONPLACE/Time travel in mirror\|Time travel in mirror]]                                     | <ul><li>[[--AREAS/SCIENCE.md\\|SCIENCE]]</li></ul>                                                                                                                                 | February 14, 2025 |
