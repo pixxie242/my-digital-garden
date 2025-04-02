@@ -24,6 +24,6 @@
 - ==medicine== qns
 
 
-[[--COMMONPLACE/for the brain\|for the brain]]
+[[for the brain\|for the brain]]
 [[--AREAS/PRODUCTIVITY\|PRODUCTIVITY]]
 [[--COMMONPLACE/CORNELL NOTES\|CORNELL NOTES]]
