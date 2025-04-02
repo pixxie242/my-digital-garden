@@ -29,3 +29,7 @@ The ability to detect emotions through sweat has wide-ranging implications:
 3. [The Scent of Emotions: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC7218249/)
 4. [A Sniff of Happiness](https://www.sciencedaily.com/releases/2015/04/150416084348.htm)
 5. [Positive Emotion Communication Through Sweat](https://www.psychologicalscience.org/news/releases/a-sniff-of-happiness-chemicals-in-sweat-may-convey-positive-emotion.html)
+
+
+
+[[--AREAS/SCIENCE\|SCIENCE]]
