@@ -3,6 +3,8 @@
 ---
 
 - Humans can smell emotions ( fear, happiness, sexual arousiness, anxiety) from the chemical composition of sweat (chemosignalling).
+- for eg- someone is crying and they are sweating, and anoither person is sky diving or something and sweating, our brain can know the differences. but we wont even know.
+- people who got exposed to different sweats gets different emotions triggered even without them knowing. this is the reason we can somewhat know how the situation is, when we get into a room of people. If it is a tensed and anxiety inducing environment, our brain can pick that.
 
 
 - Emotional sweat activates amygdala, enhancing sensory vigilance and emotional arousal without conscious awareness of odor.[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7218249/) 
